@@ -27,4 +27,3 @@ def request_two_colors():
   print("Your First color: ", MAJOR_COLORS[indexcol1])
   print("Your Secong color: ", MINOR_COLORS[indexcol2])
   return color1, color2
-  
