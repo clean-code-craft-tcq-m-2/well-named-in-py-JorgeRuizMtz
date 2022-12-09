@@ -6,3 +6,4 @@ def Fail():
   print("Invalid option, Please try again")
   input("Press Enter to continue\n ")
   Menu.Menu() 
+  
