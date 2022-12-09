@@ -1,5 +1,4 @@
-import os
-import Fail
+import os, Fail
 from Colors import MAJOR_COLORS, MINOR_COLORS
 def request_two_colors():
   os.system("cls") 
