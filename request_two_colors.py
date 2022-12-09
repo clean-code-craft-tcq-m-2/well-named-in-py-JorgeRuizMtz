@@ -24,6 +24,5 @@ def request_two_colors():
   elif color2 not in MINOR_COLORS:
     Fail.Fail()
   os.system("cls")
-  print("Your First color: ", MAJOR_COLORS[indexcol1])
-  print("Your Secong color: ", MINOR_COLORS[indexcol2])
+  print("Your First color: ", MAJOR_COLORS[indexcol1],'\n',"Your Secong color: ", MINOR_COLORS[indexcol2])
   return color1, color2
