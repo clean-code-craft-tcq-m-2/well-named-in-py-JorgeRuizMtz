@@ -1,8 +1,7 @@
 import second_menu
-import os
 
 def Menu():
-  os.system("cls")
+
   print("Welcome to 25-pair color code System.")
   print("Please, Select an option \n")
   print("1.- Get a number from Two colors")
